@@ -1,6 +1,6 @@
 #### Built With
 
-* NodeJS (Mux)
+* NodeJS
 * Express
 * Nodemailer
 * Sequelize
